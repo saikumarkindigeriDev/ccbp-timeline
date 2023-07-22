@@ -1,5 +1,3 @@
-// Write your code here // ccbp submit RJSCPRXL8I
-
 import {AiFillClockCircle} from 'react-icons/ai'
 
 import {
